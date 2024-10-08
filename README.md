@@ -4,7 +4,10 @@
 **Email**: [had7143@gmail.com](mailto:had7143@gmail.com)  
 **Phone**: (605) 592-6747  
 **GitHub**: [https://github.com/hdubey-debug](https://github.com/hdubey-debug)
+## About me 
+I am currently a researcher at the Intelligent Vision Systems Lab at South Dakota State University, under the guidance of Dr. Chulwoo Pack. My research is focused on advancing video comprehension by developing a mathematical framework to enhance the analysis and scoring of video summarization. In parallel, I am addressing critical challenges in large visual-language models (LVLMs), such as solving the lack of memory retention, enabling one-shot video question answering, and improving fine-grained video description.
 
+In addition to my research in AI, I have a strong background in firmware and embedded systems engineering. I have worked at Amazon's Just Walk Out technology, where I developed firmware for their wireless networks, and at Trilliant Networks, where I contributed to the development of firmware for their mesh networks.
 ## Education
 **Bachelor of Science**: Electrical Engineering  
 *South Dakota State University* | May 2021
