@@ -1,200 +1,202 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Harsh Dubey",
+    "label": "Firmware Engineer - Wireless Networks",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "had7143@gmail.com",
+    "phone": "(605) 592-6747",
+    "url": "",
+    "summary": "Experienced Firmware Engineer specializing in wireless networks and IoT solutions with expertise in embedded systems, microcontrollers, and FPGA development.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "411 Berry Chase Way",
+      "postalCode": "NC 27519",
+      "city": "Cary",
       "countryCode": "US",
-      "region": "California"
+      "region": "North Carolina"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Trilliant Networks, Inc.",
+      "position": "Firmware Engineer – Wireless Networks",
+      "location": "Cary, NC",
+      "startDate": "2023-02-01",
+      "endDate": "Present",
+      "summary": "Developing, upgrading, and testing software for RPMA 900 MHz and Mesh 2.4 GHz networks including streetlight controllers, ANSI power meters and water meter interfacing units.",
+      "highlights": [
+        "Developed software in C/C++ for Trilliant's Spectra ANSI meter with RPMA 805.15.4 900 MHz network interface card",
+        "Led product development for Trilliant's water MIUs involving firmware/hardware testing and driver development",
+        "Created dashboards and remote control software using Node-RED, JavaScript, Influx DB, Prometheus, and Grafana",
+        "Configured Linux servers to host various services and applications"
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Amazon.com, Inc.",
+      "position": "Wireless Software Engineer",
+      "location": "Cupertino, CA",
+      "startDate": "2022-07-01",
+      "endDate": "2023-02-01",
+      "summary": "Designed, developed, and implemented software for wireless networks in Amazon's Just Walk Out Technology division.",
+      "highlights": [
+        "Designed software library and application using Contiki-NG OS and C/C++ for Frugal Event Detection Device (FRED)",
+        "Created load cell validation library for 805.15.4 2.4 GHz network coordinator using Contiki-NG",
+        "Developed debug CLI for 805.15.4 2.4GHz network's edge device's deep sleep mode",
+        "Created dashboards and unit tests with JavaScript in Node-RED for network performance evaluation"
+      ]
+    },
+    {
+      "name": "Trilliant Networks, Inc.",
+      "position": "Firmware Engineer – Wireless Networks",
+      "location": "Cary, NC", 
+      "startDate": "2021-07-01",
+      "endDate": "2022-07-01",
+      "summary": "Initial role developing software for various products in Trilliant's RPMA and Mesh networks.",
+      "highlights": [
+        "Developed C/C++ software for wireless network products",
+        "Worked with customers to provide support and design IoT solutions",
+        "Tested firmware and hardware for various network devices"
+      ]
+    },
+    {
+      "name": "South Dakota State University",
+      "position": "Electrical Engineer – Wireless Embedded Systems IoT",
+      "location": "Brookings, SD",
+      "startDate": "2020-01-01",
+      "endDate": "2021-07-01",
+      "summary": "Designed LoRaWan-enabled remote monitoring system for swine facility with web-based monitoring interface.",
+      "highlights": [
+        "Designed non-invasive LoRaWAN sensor nodes using Arduino platforms",
+        "Created C# interface for serial data communication and database integration",
+        "Developed web frontend using HTML, CSS, and JavaScript with Google Firebase backend",
+        "Configured network gateway using The Things Network"
+      ]
+    },
+    {
+      "name": "Banner Engineering",
+      "position": "Electrical Engineer – PLC & HMI Firmware",
+      "location": "Aberdeen, SD",
+      "startDate": "2019-05-01",
+      "endDate": "2019-08-01",
+      "summary": "Designed PCB fixtures, automated industrial ovens, and created electrical control panels.",
+      "highlights": [
+        "Designed PCB fixture using CLICK PLC and Banner safety controller",
+        "Created oven timer system with CLICK PLC and CMORE HMI",
+        "Designed control panels for ovens and conveyor belts"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "institution": "South Dakota State University (SDSU)",
+      "location": "Brookings, SD",
+      "area": "Electrical Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2017-08-01",
+      "endDate": "2021-05-01"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming Languages",
+      "level": "Expert",
+      "icon": "fa-solid fa-code",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "C/C++",
+        "JavaScript", 
+        "PIC Assembly",
+        "C#",
+        "Verilog"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Wireless Networks",
+      "level": "Expert", 
+      "icon": "fa-solid fa-wifi",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "802.15.4 MAC/PHY",
+        "LoRaWAN",
+        "RPMA",
+        "Contiki-NG OS",
+        "Free RTOS"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Embedded Systems",
+      "level": "Expert",
+      "icon": "fa-solid fa-microchip",
+      "keywords": [
+        "Microprocessors",
+        "Microcontrollers", 
+        "FPGA",
+        "EFR32BG",
+        "PIC Controllers",
+        "ARM Cortex",
+        "Arduino"
+      ]
+    },
+    {
+      "name": "Communication Protocols",
+      "level": "Advanced",
+      "icon": "fa-solid fa-network-wired", 
+      "keywords": [
+        "I2C",
+        "SPI", 
+        "UART",
+        "USB",
+        "MQTT",
+        "lwm2m/COAP"
+      ]
+    },
+    {
+      "name": "IoT & Development Tools",
+      "level": "Advanced",
+      "icon": "fa-solid fa-tools",
+      "keywords": [
+        "Node-RED",
+        "Influx DB",
+        "Prometheus", 
+        "MySQL",
+        "Grafana",
+        "Nginx"
+      ]
+    },
+    {
+      "name": "Hardware & Testing",
+      "level": "Advanced", 
+      "icon": "fa-solid fa-screwdriver-wrench",
+      "keywords": [
+        "PCB Debugging",
+        "Oscilloscopes",
+        "Logic Analyzers",
+        "Multimeters",
+        "Model Sim",
+        "Quartus"
+      ]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Network Configuration Dongle",
+      "summary": "Designed configuration dongle for Daktronics display controllers using ATSAMD21 ARM Cortex processor with USB 2.0 communication and .NET C# driver application.",
+      "highlights": [
+        "ATSAMD21 ARM Cortex processor firmware", 
+        ".NET C# driver application",
+        "PCB design and OLED interface"
+      ],
+      "startDate": "2019-08-01",
+      "endDate": "2020-05-01"
+    },
+    {
+      "name": "EEG-Reactive Gaming System", 
+      "summary": "Developed gaming system reactive to player's brain status using EEG signals, including emotion classification model and 2D space shooter game with machine learning integration.",
+      "highlights": [
+        "EEG signal processing with OpenBCI",
+        "Unity 2D game development",
+        "Machine learning with Keras and TensorFlow"
+      ],
+      "startDate": "2018-08-01",
+      "endDate": "2019-05-01"
     }
   ]
 }
