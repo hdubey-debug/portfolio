@@ -48,7 +48,7 @@
     {
       "name": "Trilliant Networks, Inc.",
       "position": "Firmware Engineer – Wireless Networks",
-      "location": "Cary, NC", 
+      "location": "Cary, NC",
       "startDate": "2021-07-01",
       "endDate": "2022-07-01",
       "summary": "Initial role developing software for various products in Trilliant's RPMA and Mesh networks.",
@@ -101,100 +101,51 @@
       "name": "Programming Languages",
       "level": "Expert",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "C/C++",
-        "JavaScript", 
-        "PIC Assembly",
-        "C#",
-        "Verilog"
-      ]
+      "keywords": ["C/C++", "JavaScript", "PIC Assembly", "C#", "Verilog"]
     },
     {
       "name": "Wireless Networks",
-      "level": "Expert", 
+      "level": "Expert",
       "icon": "fa-solid fa-wifi",
-      "keywords": [
-        "802.15.4 MAC/PHY",
-        "LoRaWAN",
-        "RPMA",
-        "Contiki-NG OS",
-        "Free RTOS"
-      ]
+      "keywords": ["802.15.4 MAC/PHY", "LoRaWAN", "RPMA", "Contiki-NG OS", "Free RTOS"]
     },
     {
       "name": "Embedded Systems",
       "level": "Expert",
       "icon": "fa-solid fa-microchip",
-      "keywords": [
-        "Microprocessors",
-        "Microcontrollers", 
-        "FPGA",
-        "EFR32BG",
-        "PIC Controllers",
-        "ARM Cortex",
-        "Arduino"
-      ]
+      "keywords": ["Microprocessors", "Microcontrollers", "FPGA", "EFR32BG", "PIC Controllers", "ARM Cortex", "Arduino"]
     },
     {
       "name": "Communication Protocols",
       "level": "Advanced",
-      "icon": "fa-solid fa-network-wired", 
-      "keywords": [
-        "I2C",
-        "SPI", 
-        "UART",
-        "USB",
-        "MQTT",
-        "lwm2m/COAP"
-      ]
+      "icon": "fa-solid fa-network-wired",
+      "keywords": ["I2C", "SPI", "UART", "USB", "MQTT", "lwm2m/COAP"]
     },
     {
       "name": "IoT & Development Tools",
       "level": "Advanced",
       "icon": "fa-solid fa-tools",
-      "keywords": [
-        "Node-RED",
-        "Influx DB",
-        "Prometheus", 
-        "MySQL",
-        "Grafana",
-        "Nginx"
-      ]
+      "keywords": ["Node-RED", "Influx DB", "Prometheus", "MySQL", "Grafana", "Nginx"]
     },
     {
       "name": "Hardware & Testing",
-      "level": "Advanced", 
+      "level": "Advanced",
       "icon": "fa-solid fa-screwdriver-wrench",
-      "keywords": [
-        "PCB Debugging",
-        "Oscilloscopes",
-        "Logic Analyzers",
-        "Multimeters",
-        "Model Sim",
-        "Quartus"
-      ]
+      "keywords": ["PCB Debugging", "Oscilloscopes", "Logic Analyzers", "Multimeters", "Model Sim", "Quartus"]
     }
   ],
   "projects": [
     {
       "name": "Network Configuration Dongle",
       "summary": "Designed configuration dongle for Daktronics display controllers using ATSAMD21 ARM Cortex processor with USB 2.0 communication and .NET C# driver application.",
-      "highlights": [
-        "ATSAMD21 ARM Cortex processor firmware", 
-        ".NET C# driver application",
-        "PCB design and OLED interface"
-      ],
+      "highlights": ["ATSAMD21 ARM Cortex processor firmware", ".NET C# driver application", "PCB design and OLED interface"],
       "startDate": "2019-08-01",
       "endDate": "2020-05-01"
     },
     {
-      "name": "EEG-Reactive Gaming System", 
+      "name": "EEG-Reactive Gaming System",
       "summary": "Developed gaming system reactive to player's brain status using EEG signals, including emotion classification model and 2D space shooter game with machine learning integration.",
-      "highlights": [
-        "EEG signal processing with OpenBCI",
-        "Unity 2D game development",
-        "Machine learning with Keras and TensorFlow"
-      ],
+      "highlights": ["EEG signal processing with OpenBCI", "Unity 2D game development", "Machine learning with Keras and TensorFlow"],
       "startDate": "2018-08-01",
       "endDate": "2019-05-01"
     }
